@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gwenkit
 - 👀 I’m interested in Rust Programming Language.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning Arduino and The C Programming Language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
