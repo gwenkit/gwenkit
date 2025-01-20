@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @gwenkit
-- 👀 I’m interested in Rust Programming Language.
-- 🌱 I’m currently learning ESP-IDF and The C Programming Language.
+- 👋 Hi, I’m @gwenkit =^).
+<!--
+- 👀 I’m interested in The Rust Programming Language.
+--->
+- 🌱 I’m currently learning The Rust Programming Language.
 <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
